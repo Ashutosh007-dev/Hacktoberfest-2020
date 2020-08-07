@@ -1,6 +1,6 @@
 # Hacktoberfest-2020 - https://hacktoberfest.digitalocean.com
 
-Make your first Pull Request and earn a free tee from GitHub!
+Make your first Pull Request and earn a free limited edition Hacktoberfest T-shirt from GitHub!
 
 Open source is changing the world - one pull request at a time.
 Join our global community for the yearly celebration of open source software!
