@@ -1,5 +1,8 @@
 ## Information-
-
-- Username Github: [@quangpro1610]
-[@quangpro1610]: https://github.com/quangpro1610
-- Blog: https://blog.codedaokysu.com
+---
+name: Quang Hoang
+institution: Hue Industrial College
+image: quangpro1610.jpg
+quote: You only live one!
+github: quangpro1610
+---
